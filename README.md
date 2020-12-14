@@ -4,7 +4,7 @@ This is a simple algorithm that I have developed for my Applied Machine Vision c
 
 Basically this wills allow counting vehicles passing through a particular line. Here I use simple background extracting techniques (just with simple statistics) from a stable video which is very common and simple technique.
 
-Steps in the process are explained below (Written in MATLAB\Octave). And class presentation explaining more detailed process is also included in this repository (__*presentation.pdf*__).
+Steps in the process are explained below (Written in MATLAB\Octave). And class presentation explaining more detailed process is also included in this repository (__*./presentations/presentation.pdf*__).
 
 - Step 1: Read Video and Defining Vehicle Counting Line
 - Step 2: Extracting Pixels in Line and Stack in Time Direction
