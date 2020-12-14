@@ -18,7 +18,7 @@ Steps in the process are explained below (Written in MATLAB\Octave). And class p
 ```Matlab
 
 %%% Read Video
-vid_name = 'DJI_0892.MP4';
+vid_name = './data/DJI_0892.MP4';
 vidObj = VideoReader(vid_name);
 frm_temp = readFrame(vidObj); % reading temporary frame
 
