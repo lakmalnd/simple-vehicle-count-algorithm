@@ -22,7 +22,7 @@ vid_name = './data/DJI_0892.MP4';
 vidObj = VideoReader(vid_name);
 frm_temp = readFrame(vidObj); % reading temporary frame
 
-%%% defining line, moving vehicles through this line will be counted
+%%% defining line, moving vehicles through this line (yellow line) will be counted
 xmin = 561; xmax = 573; ymin = 687; ymax = 838;
 
 %%% showing the line in a sample frame
