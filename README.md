@@ -1,6 +1,6 @@
 # Simple Vehicle Count - Counting Vehicles from a Stable Video (Drone)
 
-This is a simple algorithm that I have developed for my Applied Machine Vision class project (2019). Simple and fun idea, but it needs lots of improvement to make it operational.
+This is a simple algorithm that I have developed for Applied Machine Vision class project (2019). Simple and fun idea, but it needs lots of improvement to make it operational.
 
 Basically this algorithm counts vehicles passing through a particular line. Here I use simple background extracting techniques (just with simple statistics) from a stable video which is very common and simple technique.
 
